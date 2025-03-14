@@ -1,10 +1,10 @@
 [
     {
         "message": "<yellow>Steamauto 现在招募广告投放，支持<blue>滞留时间<yellow>、<red>颜色<yellow>配置，每10分钟终端投放一次<br><white><bold>联系QQ：2221121757<reset>",
-        "stop": 3
+        "stop": 0
     },
     {
         "message": "<red><bold>ECOSteam UU市场价出全库存 有意联系QQ494007159 【ECOSteam】复制整段打开ECOSteam查看「admin的店铺」PN：01JEFGG0W3QTMRB5H13CNJAA8G或点击链接https://share.ecosteam.cn/share/01JEFGG0W3QTMRB5H13CNJAA8G<reset>",
-        "stop": 3
+        "stop": 0
     }
 ]
